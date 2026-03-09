@@ -1,5 +1,6 @@
 {
-  "name": "calculator",
+  "name": "part-1",
+  "description": "A calculator using props",
   "private": true,
   "version": "0.0.0",
   "type": "module",

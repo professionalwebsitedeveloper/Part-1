@@ -1,6 +1,7 @@
-# React + Vite
+# Part 1 — A Calculator Using Props
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates a simple React calculator built with props. It was created with the Vite template and includes standard linting and build scripts.
+
 
 Currently, two official plugins are available:
 
